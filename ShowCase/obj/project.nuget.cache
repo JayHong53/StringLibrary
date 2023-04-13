@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "duyelDGSswFHU+MqKCZ+rYiSLmeeYuBPp7SoM7K4ynAR95nMNGxbW9XM0us5yIbTgNe0xX9SnmR9Km5Hed3EEQ==",
+  "success": true,
+  "projectFilePath": "/Users/jhong/workspace/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+  "expectedPackageFiles": [
+    "/Users/jhong/.nuget/packages/stringlibrary/1.0.0-ci-20230412-233658/stringlibrary.1.0.0-ci-20230412-233658.nupkg.sha512"
+  ],
+  "logs": []
+}

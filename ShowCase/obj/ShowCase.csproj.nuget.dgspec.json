@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jhong/workspace/ClassLibraryProjects/ShowCase/ShowCase.csproj": {}
+  },
+  "projects": {
+    "/Users/jhong/workspace/ClassLibraryProjects/ShowCase/ShowCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jhong/workspace/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+        "projectName": "ShowCase",
+        "projectPath": "/Users/jhong/workspace/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+        "packagesPath": "/Users/jhong/.nuget/packages/",
+        "outputPath": "/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jhong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://pkgs.dev.azure.com/jhong52/COMP367_Lab4/_packaging/StringLibrary_feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StringLibrary": {
+              "target": "Package",
+              "version": "[1.0.0-CI-20230412-233658, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

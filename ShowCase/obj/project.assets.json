@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "StringLibrary/1.0.0-CI-20230412-233658": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/StringLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/StringLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringLibrary/1.0.0-CI-20230412-233658": {
+      "sha512": "YEESLucUbDiYHXbsfU+SZVHm6ju1uKRR9E7x5Oe0+YUrmyE43/s+CnBEII6UnO6TSCyaBJuBvzo/B/erDh1tOA==",
+      "type": "package",
+      "path": "stringlibrary/1.0.0-ci-20230412-233658",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net6.0/StringLibrary.dll",
+        "stringlibrary.1.0.0-ci-20230412-233658.nupkg.sha512",
+        "stringlibrary.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "StringLibrary >= 1.0.0-CI-20230412-233658"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jhong/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jhong/workspace/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+      "projectName": "ShowCase",
+      "projectPath": "/Users/jhong/workspace/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+      "packagesPath": "/Users/jhong/.nuget/packages/",
+      "outputPath": "/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jhong/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://pkgs.dev.azure.com/jhong52/COMP367_Lab4/_packaging/StringLibrary_feed/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "StringLibrary": {
+            "target": "Package",
+            "version": "[1.0.0-CI-20230412-233658, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

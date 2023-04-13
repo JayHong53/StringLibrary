@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibrary", "StringLibrary\StringLibrary.csproj", "{8C1F5550-66CD-40CD-88FC-97AE6BA8A3F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowCase", "ShowCase\ShowCase.csproj", "{5B441498-3942-4183-BD5E-1C5362761E5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8C1F5550-66CD-40CD-88FC-97AE6BA8A3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C1F5550-66CD-40CD-88FC-97AE6BA8A3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C1F5550-66CD-40CD-88FC-97AE6BA8A3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B441498-3942-4183-BD5E-1C5362761E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B441498-3942-4183-BD5E-1C5362761E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B441498-3942-4183-BD5E-1C5362761E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B441498-3942-4183-BD5E-1C5362761E5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

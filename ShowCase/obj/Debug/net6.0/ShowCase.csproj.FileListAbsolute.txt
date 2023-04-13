@@ -1,0 +1,17 @@
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/bin/Debug/net6.0/ShowCase
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/bin/Debug/net6.0/ShowCase.deps.json
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/bin/Debug/net6.0/ShowCase.runtimeconfig.json
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/bin/Debug/net6.0/ShowCase.dll
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/bin/Debug/net6.0/ShowCase.pdb
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/bin/Debug/net6.0/StringLibrary.dll
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ShowCase.csproj.AssemblyReference.cache
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ShowCase.AssemblyInfoInputs.cache
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ShowCase.AssemblyInfo.cs
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ShowCase.csproj.CoreCompileInputs.cache
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ShowCase.csproj.CopyComplete
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ShowCase.dll
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/refint/ShowCase.dll
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ShowCase.pdb
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ShowCase.genruntimeconfig.cache
+/Users/jhong/workspace/ClassLibraryProjects/ShowCase/obj/Debug/net6.0/ref/ShowCase.dll
